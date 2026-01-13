@@ -2,7 +2,7 @@
 
 A full-stack expense splitting application built with Java Spring Boot and JavaFX. Split bills with friends, track debts in real-time, and settle up seamlessly with built-in email notifications and multi-currency support.
 
-![Splitty Main Menu](images/ss1.png)
+![Splitty Main Menu](images/ss1.jpg)
 
 ## ✨ Features
 
@@ -20,7 +20,7 @@ A full-stack expense splitting application built with Java Spring Boot and JavaF
 - Support for international bank accounts
 - Automatic participant tracking across expenses
 
-![Event Overview](images/ss2.png)
+![Event Overview](images/ss2.jpg)
 
 **Expense Tracking**
 - Log expenses with detailed information (payer, amount, date, category)
@@ -29,7 +29,7 @@ A full-stack expense splitting application built with Java Spring Boot and JavaF
 - Filter expenses by participant or date
 - Custom expense categories per event
 
-![Add Expense](images/ss3.png)
+![Add Expense](images/ss3.jpg)
 
 ### 📧 Communication Features
 
@@ -40,7 +40,7 @@ A full-stack expense splitting application built with Java Spring Boot and JavaF
 - Automated reminder emails for debt settlements
 - All emails sent from `group4.oopp@gmail.com`
 
-![Email Invitations](images/ss4.png)
+![Email Invitations](images/ss4.jpg)
 
 **Debt Settlement**
 - Automatic debt calculation and minimization
@@ -49,7 +49,7 @@ A full-stack expense splitting application built with Java Spring Boot and JavaF
 - Mark debts as received when settled
 - Display of complete bank account information for transfers
 
-![Debt Overview](images/ss5.png)
+![Debt Overview](images/ss5.jpg)
 
 ### 🔐 Admin Panel
 
@@ -61,7 +61,7 @@ A full-stack expense splitting application built with Java Spring Boot and JavaF
 - Import/export event data as JSON
 - Import events from text format
 
-![Admin Panel](images/ss6.png)
+![Admin Panel](images/ss6.jpg)
 
 ### 🌍 Internationalization
 
@@ -71,7 +71,7 @@ A full-stack expense splitting application built with Java Spring Boot and JavaF
 - Language preference persistence
 - Easy extensibility for additional languages
 
-![Language Selection](images/ss7.png)
+![Language Selection](images/ss7.jpg)
 
 ### ⚡ Real-Time Updates
 
